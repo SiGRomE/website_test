@@ -1,4 +1,4 @@
-theme: jekyll-theme-so-simple
+remote_theme: mmistakes/so-simple-theme
 title: Project website
 author: Philip Verhagen
 description: try-out version of project website
